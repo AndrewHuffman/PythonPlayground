@@ -26,7 +26,7 @@ The versatility of Matplotlib can be used to make many visualization types:
 Seaborn is a popular data visualization library that is built on top of Matplotlib. Seaborn’s default styles and color palettes are much more sophisticated than Matplotlib. Beyond that, Seaborn is a higher-level library, meaning it’s easier to generate certain kinds of plots, including heat maps, time series, and violin plots.
 
 ## [ggplot](https://pypi.python.org/pypi/ggplot)
-![](https://www.fusioncharts.com/blog/wp-content/uploads/2018/05/seaborn-python-data-visualization-libraries-fusioncharts.png)
+![](https://www.fusioncharts.com/blog/wp-content/uploads/2018/05/ggplot-python-data-visualization-libraries-fusioncharts.png)
 
 ## [Bokeh](https://bokeh.pydata.org/en/latest/)
 ![](https://www.fusioncharts.com/blog/wp-content/uploads/2018/05/bokeh-python-data-visualization-libraries-fusioncharts.png)
